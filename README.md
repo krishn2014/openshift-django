@@ -1,1 +1,1 @@
-Project for getting started with ddjango in openshift. 
+Project for getting started with django in openshift. 
